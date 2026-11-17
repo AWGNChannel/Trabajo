@@ -1,0 +1,44 @@
+========== RESULTADOS DE LA SIMULACIÓN ==========
+
+--- PARÁMETROS DEL SISTEMA ---
+n1 = 1.330000
+n2 = 1.526000
+c1 = 1.450000e-01 1/m
+c2 = 0.000000e+00 1/m
+Reflectividad espejo = 1.000000
+Polarización = s
+
+--- ÁNGULOS ---
+theta_i   = 30.000000 deg
+theta_t   = 25.834925 deg
+phi_i     = 25.834925 deg
+phi_r     = 25.834925 deg
+epsilon_i = 25.834925 deg
+epsilon_t = 30.000000 deg
+
+--- FRESNEL ---
+R interfaz = 0.00770513
+T interfaz = 0.99229487
+
+--- LONGITUDES DE PROPAGACIÓN ---
+Longitud agua (ida) = 5.77003859 m
+Longitud agua (total) = 11.54007718 m
+Longitud PMMA (ida) = 3.33313592 mm
+Longitud PMMA (total) = 6.66627184 mm
+
+--- BEER-LAMBERT ---
+Transmisión agua = 0.18762477
+Transmisión PMMA = 1.00000000
+
+--- POTENCIA ---
+Eficiencia total = 18.474457 %
+Pérdida total = -7.334283 dB
+Potencia entrada = 10.000000 dBm
+Potencia receptor = 2.665717 dBm
+
+--- COORDENADAS [mm] ---
+Fuente = (0.0, 0.0)
+Primera incidencia d1 = (4997.0, 2885.0192951405597)
+Incidencia espejo = (5000.0, 2886.4718085000895)
+Retorno a d1 = (4997.0, 2887.9243218596193)
+Receptor = (0.0, 5772.943617000179)
